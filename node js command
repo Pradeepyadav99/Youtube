@@ -1,0 +1,28 @@
+npm init
+
+npm i -D nodemon   (auto run project after changes)
+mkdir and folder name (folder create)
+npm i -D prettier
+
+npm i mongoose
+npm i express
+npm i dotenv 
+
+npm i cookie-parser  (user ke browser ke cookie ko access karna crud operation)
+npm i cors
+
+npm i mongoose-aggregate-paginate-v2
+
+npm i bcrypt  (password bcrypt)
+npm i jsonwebtoken
+npm i multer  (file upload)
+
+https://expressjs.com/en/4x/api.html = (refrence url)
+
+https://nodejs.org/api/errors.html  (error)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status   (server status code)
+
+https://console.cloudinary.com/pm/c-4b5464ab0efd47478d007b7b6abc12/getting-started
+
+https://github.com/expressjs/multer  (multer documentation)
